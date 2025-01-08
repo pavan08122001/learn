@@ -1,0 +1,2 @@
+a=input('ji:')
+print(a)
